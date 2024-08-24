@@ -9306,7 +9306,7 @@ game:GetService("ReplicatedStorage").RE["1Updat1eAvata1r"]:FireServer(unpack(arg
 wait(0.3)
 local args = {
     [1] = "wear",
-    [2] = 17172647096
+    [2] = 18875993240
 }
 
 game:GetService("ReplicatedStorage").RE["1Updat1eAvata1r"]:FireServer(unpack(args))
@@ -9315,7 +9315,7 @@ wait(0.8)
 
 local args = {
     [1] = "wear",
-    [2] = 18785754231
+    [2] = 18698389754
 }
 
 game:GetService("ReplicatedStorage").RE["1Updat1eAvata1r"]:FireServer(unpack(args))
